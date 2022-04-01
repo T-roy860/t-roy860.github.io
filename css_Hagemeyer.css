@@ -1,0 +1,57 @@
+h1 {
+    font-family: Cambria;
+    font-display: bold;
+    background-color: #3d3d3d;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    padding: 40px;
+    height: 100%;
+    top: 0;
+    
+}
+.courses {
+    height: 100%;
+    width: 200px;
+    background-color: #ff0800;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    font-family: Cambria;
+
+}
+.courses a {
+    padding: 8px 8px 8px 8px;
+    font-size: 14;
+    display: block;
+    font-family: Cambria;
+}
+p {
+    display: inline-block;
+    font-family: Cambria;
+}
+body {
+    margin-left: 200px;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: Cambria;
+}
+nav  {
+    border: 1px solid #141414;
+    width: 275px;
+}
+#main {
+    
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+#media {
+    
+    margin: 20px;
+}
+h4 {
+    background-color: #3d3d3d;
+    color: #FFFFFF;
+    padding: 40px;
+}
